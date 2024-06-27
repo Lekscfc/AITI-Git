@@ -1,3 +1,9 @@
 add a new line.
 
+<<<<<<< HEAD
 add a new feature
+=======
+added another line (MANUALLLY)
+>>>>>>> 99be18051a861fc50822a5bea1e2ed86beedef78
+
+add another line
